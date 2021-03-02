@@ -1,6 +1,6 @@
 import streamlit as st
 import requests
-import datetime
+from datetime import datetime
 
 '''
 # TaxiFareModel front-end
