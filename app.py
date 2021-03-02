@@ -6,10 +6,6 @@ import datetime
 # TaxiFareModel front-end
 '''
 
-from datetime import datetime
-
-
-
 st.markdown('''
 Ein Modell zum Vorhersagen, des Preises einer Taxifahrt in New York auf Basis des Datums, der Koordinaten und der Anzahl der Passagiere.
 ''')
